@@ -1,0 +1,49 @@
+<div className="w-[1376px] h-[883px] relative">
+  <div className="w-[610px] h-[883px] left-[766px] top-0 absolute bg-slate-200 rounded-[30px]" />
+  <div className="w-[514px] h-24 left-[814px] top-[745px] absolute bg-gray-950 rounded-[20px] border border-gray-950" />
+  <div className="left-[1009px] top-[775px] absolute inline-flex justify-center items-center gap-2.5">
+    <div className="justify-center text-white text-lg font-medium font-['Inter'] leading-7">Отправить</div>
+    <div className="w-4 h-4 relative overflow-hidden">
+      <div className="w-[4.73px] h-2.5 left-[5.94px] top-[2.72px] absolute outline outline-2 outline-offset-[-1px] outline-white" />
+    </div>
+  </div>
+  <div className="w-[514px] h-24 left-[814px] top-[260px] absolute bg-white rounded-[20px]" />
+  <div className="w-20 h-16 left-[824px] top-[270px] absolute opacity-70 bg-gray-100 rounded-[20px]" />
+  <div className="left-[853px] top-[290px] absolute justify-center text-zinc-900 text-xl font-normal font-['Poppins'] leading-loose">+7</div>
+  <div className="left-[932px] top-[291px] absolute inline-flex justify-start items-start gap-4">
+    <div className="opacity-70 justify-center text-gray-400 text-lg font-normal font-['Inter'] leading-7">•••</div>
+    <div className="opacity-70 justify-center text-gray-400 text-lg font-normal font-['Inter'] leading-7">•••</div>
+    <div className="opacity-70 justify-center text-gray-400 text-lg font-normal font-['Inter'] leading-7">••</div>
+    <div className="opacity-70 justify-center text-gray-400 text-lg font-normal font-['Inter'] leading-7">••</div>
+  </div>
+  <div className="w-[514px] h-24 left-[814px] top-[154px] absolute bg-white rounded-[20px]" />
+  <div className="left-[844px] top-[183px] absolute justify-center text-zinc-400 text-xl font-normal font-['Poppins'] leading-loose">Email</div>
+  <div className="w-[514px] h-24 left-[814px] top-[48px] absolute bg-white rounded-[20px]" />
+  <div className="left-[844px] top-[77px] absolute justify-center text-zinc-400 text-xl font-normal font-['Poppins'] leading-loose">ФИО</div>
+  <div className="w-[514px] h-52 left-[814px] top-[366px] absolute bg-white rounded-[20px]" />
+  <div className="left-[844px] top-[395px] absolute justify-center text-zinc-400 text-xl font-normal font-['Poppins'] leading-loose">Сообщение для нас</div>
+  <div className="w-[514px] h-24 left-[814px] top-[623px] absolute bg-white rounded-[20px]" />
+  <div className="w-16 h-16 left-[1248px] top-[633px] absolute bg-gray-950 rounded-[20px]" />
+  <div className="w-4 h-4 left-[1291px] top-[660px] absolute origin-top-left rotate-90 overflow-hidden">
+    <div className="w-2.5 h-[4.73px] left-[2.72px] top-[5.94px] absolute outline outline-2 outline-offset-[-1px] outline-white" />
+  </div>
+  <div className="left-[884px] top-[652px] absolute justify-center text-zinc-900 text-xl font-normal font-['Inter'] leading-loose">Телеграм</div>
+  <img className="w-6 h-6 left-[844px] top-[656px] absolute" src="https://placehold.co/24x24" />
+  <div className="left-[814px] top-[583px] absolute justify-center text-zinc-900 text-xl font-normal font-['Poppins'] leading-loose">Куда вам написать?</div>
+  <div className="w-[610px] left-[70px] top-[116px] absolute justify-start"><span class="text-blue-600 text-5xl font-bold font-['Poppins'] leading-[67.20px]">Оставьте заявку, и</span><span class="text-gray-950 text-5xl font-bold font-['Poppins'] leading-[67.20px]"> <br/>мы поможем внедрить ИИ-сервисы </span><span class="text-blue-600 text-5xl font-bold font-['Poppins'] leading-[67.20px]">в вашей организации</span></div>
+  <div className="w-96 h-44 left-0 top-[433px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="left-[48px] top-[481px] absolute justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">Почта</div>
+  <div className="left-[48px] top-[541px] absolute justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">Телефон</div>
+  <div className="w-96 h-44 left-[383px] top-[433px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="left-[396px] top-[481px] absolute justify-start"><span class="text-gray-950 text-xl font-normal font-['Poppins'] leading-7">Политика обработки и защиты <br/></span><span class="text-gray-950 text-xl font-normal font-['Poppins'] leading-7">персональных данных</span></div>
+  <div className="left-[398px] top-[546px] absolute text-center justify-start text-gray-950 text-xl font-normal font-['Poppins'] leading-7">Антикоррупционная  политика</div>
+  <div className="w-[750px] h-64 left-0 top-[633px] absolute bg-gray-950 rounded-[30px]" />
+  <div className="w-16 h-6 left-[48px] top-[684px] absolute justify-start text-white text-[9px] font-normal font-['Poppins'] leading-10">AI для здоровья</div>
+  <div className="w-[5px] h-[3px] left-[139px] top-[681px] absolute bg-white" />
+  <div className="left-[48px] top-[803px] absolute justify-center"><span class="text-white text-xl font-normal font-['Inter'] leading-loose">© 2025 Все права защищены |  </span><span class="text-white text-xl font-bold font-['Inter'] leading-loose">GENOVA™</span></div>
+  <div className="w-6 h-6 left-[557px] top-[681px] absolute overflow-hidden">
+    <div className="w-5 h-5 left-[2.08px] top-[2.08px] absolute outline outline-2 outline-offset-[-1px] outline-white" />
+    <div className="w-2 h-2 left-[8.38px] top-[8.29px] absolute outline outline-2 outline-offset-[-1px] outline-white" />
+    <div className="w-[0.01px] h-0 left-[18.23px] top-[6.77px] absolute outline outline-2 outline-offset-[-1px] outline-white" />
+  </div>
+</div>

@@ -1,0 +1,30 @@
+<div className="w-[1376px] h-[662px] relative">
+  <img className="w-[541px] h-[662px] left-0 top-0 absolute rounded-[30px]" src="https://placehold.co/541x662" />
+  <div className="w-28 h-12 left-[40px] top-[40px] absolute bg-white rounded-[50px]" />
+  <div className="left-[87px] top-[56px] absolute text-center justify-center text-zinc-900 text-base font-normal font-['Inter'] leading-none">02:15</div>
+  <div className="w-4 h-4 left-[64px] top-[56px] absolute overflow-hidden">
+    <div className="w-2.5 h-3 left-[1.33px] top-[2.39px] absolute outline outline-1 outline-offset-[-0.50px] outline-stone-400" />
+    <div className="w-2 h-2 left-[6.67px] top-[4.29px] absolute outline outline-1 outline-offset-[-0.50px] outline-stone-400" />
+  </div>
+  <div className="w-16 h-16 left-[437px] top-[546px] absolute bg-white rounded-[750px]" />
+  <div className="w-16 h-16 left-[437px] top-[546px] absolute opacity-20 rounded-[100px] border border-white" />
+  <div className="w-8 h-8 left-[453px] top-[594px] absolute origin-top-left -rotate-90 overflow-hidden">
+    <div className="w-4 h-4 left-[8px] top-[7.48px] absolute outline outline-[2.67px] outline-offset-[-1.33px] outline-gray-950" />
+  </div>
+  <div className="w-80 left-[626px] top-[48px] absolute justify-start text-gray-950 text-5xl font-bold font-['Poppins'] leading-[67.20px]">Отзывы клиентов</div>
+  <div className="left-[770px] top-[222px] absolute justify-center"><span class="text-zinc-900 text-base font-normal font-['Inter'] leading-none">1</span><span class="text-zinc-900/50 text-base font-normal font-['Inter'] leading-none">/15</span></div>
+  <div className="w-12 h-12 left-[690px] top-[206px] absolute bg-indigo-600 rounded-[100px] border border-stone-400" />
+  <div className="w-4 h-4 left-[706px] top-[222px] absolute overflow-hidden">
+    <div className="w-[4.73px] h-2.5 left-[5.94px] top-[2.72px] absolute outline outline-2 outline-offset-[-1px] outline-white" />
+  </div>
+  <div className="w-12 h-12 left-[626px] top-[206px] absolute opacity-10 rounded-[100px] border border-zinc-900" />
+  <div className="w-4 h-4 left-[658px] top-[238px] absolute origin-top-left rotate-180 overflow-hidden">
+    <div className="w-[4.73px] h-2.5 left-[5.33px] top-[2.72px] absolute outline outline-2 outline-offset-[-1px] outline-gray-950" />
+  </div>
+  <div className="w-[819px] h-80 left-[557px] top-[302px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-7 h-6 left-[626px] top-[372px] absolute bg-stone-400" />
+  <div className="w-7 h-6 left-[1278px] top-[556px] absolute bg-stone-400" />
+  <div className="w-[541px] left-[696px] top-[390px] absolute opacity-70 text-center justify-start text-zinc-900 text-lg font-normal font-['Inter'] leading-relaxed">Lorem ipsum dolor sit amet consectetur. Imperdiet et sed fringilla arcu egestas enim duis arcu viverra. Accumsan cursus leo cursus interdum in ac mattis arcu consectetur. Sit aliquam in feugiat eget tortor placerat sit aliquam. Risus pellentesque magna in quam aliquet pharetra vitae.</div>
+  <div className="w-[541px] left-[696px] top-[531px] absolute opacity-70 text-center justify-start text-zinc-900 text-lg font-normal font-['Inter'] leading-relaxed">ФИО<br/>Должность </div>
+  <div className="w-6 h-6 left-[955px] top-[526px] absolute" />
+</div>

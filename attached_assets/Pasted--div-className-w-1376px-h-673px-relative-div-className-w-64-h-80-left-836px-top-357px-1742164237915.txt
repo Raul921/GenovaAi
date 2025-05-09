@@ -1,0 +1,43 @@
+<div className="w-[1376px] h-[673px] relative">
+  <div className="w-64 h-80 left-[836px] top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[861px] top-[478px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">6<br/> ИИ-сервисов</div>
+  <div className="w-48 left-[868px] top-[550px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed">Комплексная диагностика и уход <br/>за пациентом </div>
+  <div className="w-12 h-12 left-[943px] top-[405px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-12 h-12 left-[943px] top-[405px] absolute text-center justify-center text-white text-xl font-bold font-['Poppins'] leading-7">4</div>
+  <div className="w-64 h-80 left-0 top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[25px] top-[478px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">5 лет на рынке<br/>на рынке</div>
+  <div className="w-48 left-[32px] top-[550px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed">Разрабатываем и внедряем <br/>ИИ-сервисы</div>
+  <div className="w-12 h-12 left-[107px] top-[405px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-12 h-12 left-[107px] top-[405px] absolute text-center justify-center text-white text-xl font-bold font-['Poppins'] leading-7">1</div>
+  <div className="w-64 h-80 left-[279px] top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[304px] top-[478px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">+5000 <br/>врачей</div>
+  <div className="w-48 left-[311px] top-[550px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed">Используют <br/>продукты <br/>компании</div>
+  <div className="w-12 h-12 left-[386px] top-[405px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-12 h-12 left-[386px] top-[405px] absolute text-center justify-center text-white text-xl font-bold font-['Poppins'] leading-7">2</div>
+  <div className="w-64 h-80 left-[557px] top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[583px] top-[478px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">10.000.000 исследований</div>
+  <div className="w-48 left-[590px] top-[550px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed">Обработали <br/>ИИ-алгоритмы</div>
+  <div className="w-12 h-12 left-[665px] top-[405px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-12 h-12 left-[665px] top-[405px] absolute text-center justify-center text-white text-xl font-bold font-['Poppins'] leading-7">3</div>
+  <div className="w-64 h-80 left-[1114px] top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[1139px] top-[478px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">14 <br/>регионов</div>
+  <div className="w-48 left-[1146px] top-[550px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed">Повышает качество  учереждений с<br/>ИИ-сервисами </div>
+  <div className="w-12 h-12 left-[1221px] top-[405px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-12 h-12 left-[1221px] top-[405px] absolute text-center justify-center text-white text-xl font-bold font-['Poppins'] leading-7">5</div>
+  <div className="w-[541px] h-80 left-0 top-0 absolute rounded-[30px]" />
+  <div className="w-96 left-[70px] top-[70px] absolute justify-start"><span class="text-gray-950 text-5xl font-bold font-['Poppins'] leading-[67.20px]">Продукты<br/></span><span class="text-blue-600 text-5xl font-bold font-['Poppins'] leading-[67.20px]">GENOVA™</span></div>
+  <div className="w-[541px] h-80 left-[557px] top-0 absolute bg-slate-200 rounded-[30px]" />
+  <div className="w-[471px] left-[627px] top-[58px] absolute opacity-70 justify-start text-zinc-900 text-lg font-normal font-['Poppins'] leading-relaxed">ИИ-сервисы помогают достичь стратегических целей, выполняя показатели по Национальному проекту, сокращая финансовые затраты за счет улучшения качества диагностики и ухода, а также экономя время специалистов путем автоматизации измерений.</div>
+  <div className="w-36 h-12 left-[627px] top-[223px] absolute bg-indigo-600 rounded-[100px] border border-indigo-600" />
+  <div className="left-[651px] top-[233px] absolute justify-center text-white text-base font-normal font-['Inter'] leading-relaxed">Подробнее</div>
+  <div className="w-4 h-4 left-[739px] top-[239px] absolute overflow-hidden">
+    <div className="w-[4.73px] h-2.5 left-[5.94px] top-[2.72px] absolute outline outline-2 outline-offset-[-1px] outline-white" />
+  </div>
+  <div className="w-64 h-80 left-[1114px] top-0 absolute bg-gradient-to-br from-indigo-600 to-indigo-400 rounded-[30px]" />
+  <div className="w-52 left-[1139px] top-[121px] absolute text-center justify-start text-white text-xl font-bold font-['Poppins'] leading-7">Стратегические<br/>цели</div>
+  <div className="w-48 left-[1146px] top-[193px] absolute text-center justify-end text-white text-lg font-normal font-['Poppins'] leading-relaxed">Ускоряет и повышает точность анализа данных.<br/></div>
+  <div className="w-12 h-12 left-[1221px] top-[48px] absolute bg-white rounded-[100px] border border-white" />
+  <div className="w-4 h-4 left-[1237px] top-[64px] absolute overflow-hidden">
+    <div className="w-[4.73px] h-2.5 left-[5.94px] top-[2.72px] absolute outline outline-2 outline-offset-[-1px] outline-gray-950" />
+  </div>
+</div>

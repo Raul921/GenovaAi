@@ -1,0 +1,33 @@
+<div className="w-[1376px] h-[673px] relative">
+  <div className="w-64 h-80 left-[836px] top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-64 h-80 left-0 top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[26px] top-[419px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">КТ головного <br/>мозга</div>
+  <div className="w-48 left-[33px] top-[491px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed">Разрабатываем и внедряем <br/>ИИ-сервисы</div>
+  <div className="w-12 h-12 left-[108px] top-[577px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-64 h-80 left-[279px] top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[304px] top-[433px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">Маммография</div>
+  <div className="w-48 left-[311px] top-[491px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed"> Обнаружения опухолей, кист и кальцинатов.</div>
+  <div className="w-12 h-12 left-[386px] top-[577px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-64 h-80 left-[557px] top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[583px] top-[419px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">Платформа для врачей</div>
+  <div className="w-48 left-[590px] top-[491px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed"> Консультации и вопросы между врачами</div>
+  <div className="w-12 h-12 left-[665px] top-[577px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-12 h-12 left-[665px] top-[577px] absolute text-center justify-center text-white text-xl font-bold font-['Poppins'] leading-7">+</div>
+  <div className="w-52 left-[861px] top-[433px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">Мониторинг</div>
+  <div className="w-48 left-[868px] top-[491px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed">ИИ на основе анализа палаты пациентов</div>
+  <div className="w-12 h-12 left-[943px] top-[577px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-64 h-80 left-[1114px] top-[357px] absolute bg-gray-100 rounded-[30px]" />
+  <div className="w-52 left-[1139px] top-[419px] absolute text-center justify-start text-gray-950 text-xl font-bold font-['Poppins'] leading-7">Лабараторная диагностика</div>
+  <div className="w-48 left-[1146px] top-[491px] absolute opacity-70 text-center justify-end text-gray-950 text-lg font-normal font-['Poppins'] leading-relaxed">ИИ анализ на мазке крови и костного мозга</div>
+  <div className="w-12 h-12 left-[1221px] top-[577px] absolute bg-indigo-600 rounded-[100px]" />
+  <div className="w-96 left-[70px] top-[70px] absolute justify-start"><span class="text-gray-950 text-5xl font-bold font-['Poppins'] leading-[67.20px]">Продукты<br/></span><span class="text-blue-600 text-5xl font-bold font-['Poppins'] leading-[67.20px]">GENOVA™</span></div>
+  <div className="w-[541px] h-80 left-[365px] top-0 absolute bg-slate-200 rounded-[30px]" />
+  <div className="w-[471px] left-[410px] top-[101px] absolute opacity-70 justify-start text-zinc-900 text-lg font-normal font-['Poppins'] leading-relaxed">более детальное исследование, при котором с помощью рентгеновских лучей создается двухмерное изображение органов грудной клетки. Применяется для диагностики заболеваний легких, сердца, ребер и сосудов.</div>
+  <div className="w-36 h-12 left-[410px] top-[243px] absolute bg-indigo-600 rounded-[100px] border border-indigo-600" />
+  <div className="w-96 h-80 left-[943px] top-0 absolute bg-gradient-to-br from-indigo-600 to-indigo-400 rounded-[30px]" />
+  <div className="w-80 left-[999px] top-[116px] absolute text-center justify-start text-white text-xl font-bold font-['Poppins'] leading-7">КТ органов грудной клетки</div>
+  <div className="w-96 left-[410px] top-[63px] absolute justify-start text-blue-950 text-xl font-bold font-['Poppins'] leading-7">Ренгенография ОГК и флюорография </div>
+  <div className="w-96 left-[953px] top-[156px] absolute text-center justify-end text-white text-lg font-normal font-['Poppins'] leading-relaxed">это высокоточный метод диагностики, использующий рентгеновские лучи и компьютерную обработку для создания детальных послойных изображений структур грудной полости.<br/></div>
+  <div className="w-12 h-12 left-[1136px] top-[48px] absolute bg-white rounded-[100px] border border-white" />
+  <div className="w-80 h-0 left-[5px] top-0 absolute origin-top-left rotate-[89.83deg] outline outline-[10px] outline-offset-[-5px] outline-slate-800"></div>
+</div>

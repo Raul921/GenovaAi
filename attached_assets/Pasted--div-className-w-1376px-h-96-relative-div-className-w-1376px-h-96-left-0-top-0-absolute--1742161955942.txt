@@ -1,0 +1,17 @@
+<div className="w-[1376px] h-96 relative">
+  <div className="w-[1376px] h-96 left-0 top-0 absolute bg-slate-800 rounded-[30px]" />
+  <div className="left-[68px] top-[70px] absolute justify-start text-white text-5xl font-bold font-['Poppins']">Реестр ПО</div>
+  <div className="w-[515px] left-[68px] top-[160px] absolute opacity-70 justify-start text-white text-lg font-normal font-['Poppins'] leading-relaxed">Компания внедрила и активно использует ИИ-сервисы для анализа медицинских изображений, включая маммограммы, флюорограммы, рентгенограммы, а также данные компьютерной томографии (КТ) органов грудной клетки и головного мозга. <br/></div>
+  <div className="w-36 h-12 left-[68px] top-[325px] absolute bg-white rounded-[100px] border border-white" />
+  <div className="left-[92px] top-[335px] absolute justify-center text-gray-950 text-base font-normal font-['Inter'] leading-relaxed">Подробнее</div>
+  <div className="w-4 h-4 left-[180px] top-[341px] absolute overflow-hidden">
+    <div className="w-[4.73px] h-2.5 left-[5.94px] top-[2.72px] absolute outline outline-2 outline-offset-[-1px] outline-gray-950" />
+  </div>
+  <div className="left-[766px] top-[70px] absolute justify-start text-white text-5xl font-bold font-['Poppins']">Сертификат ISO</div>
+  <div className="w-[515px] left-[766px] top-[160px] absolute opacity-70 justify-start text-white text-lg font-normal font-['Poppins'] leading-relaxed">Продукты компании, оснащенные регистрационными удостоверениями, успешно включены в перечень рекомендованных отечественных медицинских изделий на основе искусственного интеллекта. </div>
+  <div className="w-36 h-12 left-[766px] top-[325px] absolute bg-white rounded-[100px] border border-white" />
+  <div className="left-[790px] top-[335px] absolute justify-center text-gray-950 text-base font-normal font-['Inter'] leading-relaxed">Подробнее</div>
+  <div className="w-4 h-4 left-[878px] top-[341px] absolute overflow-hidden">
+    <div className="w-[4.73px] h-2.5 left-[5.94px] top-[2.72px] absolute outline outline-2 outline-offset-[-1px] outline-gray-950" />
+  </div>
+</div>

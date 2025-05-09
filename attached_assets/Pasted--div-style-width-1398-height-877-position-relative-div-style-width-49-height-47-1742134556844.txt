@@ -1,0 +1,75 @@
+<div style={{width: 1398, height: 877, position: 'relative'}}>
+  <div style={{width: 49, height: 47, left: 77, top: 0, position: 'absolute', background: 'linear-gradient(270deg, #3444E4 0%, #9A90F4 100%)', borderRadius: 9999}} />
+  <div style={{width: 49, height: 47, left: 77, top: 0, position: 'absolute', background: 'linear-gradient(270deg, #3444E4 0%, #9A90F4 100%)', borderRadius: 9999}} />
+  <div style={{width: 49, height: 47, left: 77, top: 0, position: 'absolute', background: 'linear-gradient(270deg, #3444E4 0%, #9A90F4 100%)', borderRadius: 9999}} />
+  <div style={{width: 95, height: 31, left: 7, top: 11, position: 'absolute', overflow: 'hidden'}}>
+    <div style={{width: 5, height: 3, left: 90, top: 0, position: 'absolute', background: '#182E45'}} />
+    <div style={{width: 72, height: 26, left: 0, top: 3, position: 'absolute', color: 'black', fontSize: 9, fontFamily: 'Poppins', fontWeight: '400', lineHeight: 46, wordWrap: 'break-word'}}>AI для здоровья</div>
+    <div style={{width: 95, height: 17.91, left: 0, top: 3, position: 'absolute', background: '#182E45'}} />
+  </div>
+  <div style={{height: 30, left: 754, top: 19, position: 'absolute', justifyContent: 'center', alignItems: 'center', gap: 32, display: 'inline-flex'}}>
+    <div style={{justifyContent: 'center', display: 'flex', flexDirection: 'column', color: '#070A11', fontSize: 18, fontFamily: 'Inter', fontWeight: '400', lineHeight: 28.80, wordWrap: 'break-word'}}>О компании</div>
+    <div style={{justifyContent: 'center', display: 'flex', flexDirection: 'column', color: '#070A11', fontSize: 18, fontFamily: 'Inter', fontWeight: '400', lineHeight: 28.80, wordWrap: 'break-word'}}>Продукты</div>
+    <div style={{justifyContent: 'center', display: 'flex', flexDirection: 'column', color: '#070A11', fontSize: 18, fontFamily: 'Inter', fontWeight: '400', lineHeight: 28.80, wordWrap: 'break-word'}}>Блог</div>
+    <div style={{justifyContent: 'center', display: 'flex', flexDirection: 'column', color: '#070A11', fontSize: 18, fontFamily: 'Inter', fontWeight: '400', lineHeight: 28.80, wordWrap: 'break-word'}}>Контакты</div>
+    <img style={{width: 20, height: 20}} src="https://placehold.co/20x20" />
+    <div style={{width: 129, height: 30, background: '#182E45', borderRadius: 100}} />
+  </div>
+  <div style={{left: 1268, top: 24, position: 'absolute', justifyContent: 'center', display: 'flex', flexDirection: 'column', color: 'white', fontSize: 12, fontFamily: 'Inter', fontWeight: '700', lineHeight: 19.20, wordWrap: 'break-word'}}>Протестировать</div>
+  <div style={{width: 750, height: 798, left: 7, top: 79, position: 'absolute', background: '#F0F1F3', borderRadius: 30}} />
+  <div style={{width: 150, height: 150, left: 515, top: 341, position: 'absolute', background: '#182E45', borderRadius: 750}} />
+  <div style={{width: 64, height: 64, left: 558, top: 384, position: 'absolute', opacity: 0.20, borderRadius: 100, border: '1px white solid'}} />
+  <div style={{width: 32, height: 32, left: 574, top: 432, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: 'top left', overflow: 'hidden'}}>
+    <div style={{width: 15.99, height: 17.05, left: 8, top: 7.48, position: 'absolute', outline: '2.67px white solid', outlineOffset: '-1.33px'}} />
+  </div>
+  <img style={{width: 616, height: 594, left: 61, top: 207, position: 'absolute'}} src="https://placehold.co/616x594" />
+  <img style={{width: 764, height: 785, left: 0, top: 89, position: 'absolute'}} src="https://placehold.co/764x785" />
+  <div style={{width: 113, height: 48, left: 47, top: 119, position: 'absolute', background: 'white', borderRadius: 50}} />
+  <div style={{width: 16, height: 16, left: 71, top: 135, position: 'absolute', overflow: 'hidden'}}>
+    <div style={{width: 13.33, height: 13.23, left: 1.33, top: 1.39, position: 'absolute', outline: '1.33px #C3B1A4 solid', outlineOffset: '-0.67px'}} />
+  </div>
+  <div style={{left: 95, top: 135, position: 'absolute', textAlign: 'center', justifyContent: 'center', display: 'flex', flexDirection: 'column'}}><span style="color: '#17191E', fontSize: 16, fontFamily: 'Inter', fontWeight: '400', lineHeight: 16, wordWrap: 'break-word'">4.5</span><span style="color: 'rgba(23.06, 25.06, 29.75, 0.50)', fontSize: 16, fontFamily: 'Inter', fontWeight: '400', lineHeight: 16, wordWrap: 'break-word'">/5</span></div>
+  <div style={{width: 297, height: 253.50, left: 1086, top: 623, position: 'absolute', background: 'linear-gradient(138deg, #3D4AE5 0%, #9088F2 100%)', borderRadius: 30}} />
+  <div style={{width: 211, left: 1126, top: 663, position: 'absolute', color: 'white', fontSize: 24, fontFamily: 'Poppins', fontWeight: '700', lineHeight: 33.60, wordWrap: 'break-word'}}>Клиническая <br/>лабараторная <br/>диагностика</div>
+  <div style={{width: 48, height: 48, left: 1295, top: 789, position: 'absolute', background: 'white', borderRadius: 100, border: '1px white solid'}} />
+  <div style={{width: 16, height: 16, left: 1311, top: 805, position: 'absolute', overflow: 'hidden'}}>
+    <div style={{width: 4.73, height: 10.56, left: 5.94, top: 2.72, position: 'absolute', outline: '2px #070A11 solid', outlineOffset: '-1px'}} />
+  </div>
+  <div style={{width: 327, height: 254, left: 47, top: 591, position: 'absolute', background: 'white', borderRadius: 30}} />
+  <div style={{width: 211, left: 87, top: 631, position: 'absolute', color: '#182E45', fontSize: 24, fontFamily: 'Poppins', fontWeight: '700', lineHeight: 33.60, wordWrap: 'break-word'}}>КТ головного мозга</div>
+  <div style={{width: 48, height: 48, left: 286, top: 757, position: 'absolute', opacity: 0.10, borderRadius: 100, border: '1px #17191E solid'}} />
+  <div style={{width: 24, height: 24, left: 298, top: 769, position: 'absolute', overflow: 'hidden'}}>
+    <div style={{width: 12, height: 12, left: 6, top: 6, position: 'absolute', outline: '1.50px #070A11 solid', outlineOffset: '-0.75px'}} />
+  </div>
+  <div style={{width: 327, height: 254, left: 398, top: 591, position: 'absolute', background: 'linear-gradient(137deg, rgba(255, 255, 255, 0.47) 0%, rgba(255, 255, 255, 0) 100%)', borderRadius: 30, outline: '1px white solid', backdropFilter: 'blur(21px)'}} />
+  <div style={{width: 326, height: 254, left: 399, top: 591, position: 'absolute', background: 'linear-gradient(136deg, rgba(255, 255, 255, 0.40) 0%, rgba(255, 255, 255, 0) 100%)', borderRadius: 30, outline: '1px white solid', backdropFilter: 'blur(21px)'}} />
+  <div style={{width: 612.30, height: 612.30, left: 182.48, top: 170, position: 'absolute', transform: 'rotate(15deg)', transformOrigin: 'top left', opacity: 0.06, borderRadius: 9999, border: '1px white solid'}} />
+  <div style={{width: 453.95, height: 453.95, left: 238.46, top: 266.97, position: 'absolute', transform: 'rotate(15deg)', transformOrigin: 'top left', opacity: 0.06, borderRadius: 9999, border: '1px white solid'}} />
+  <div style={{width: 292.07, height: 292.07, left: 295.69, top: 366.10, position: 'absolute', transform: 'rotate(15deg)', transformOrigin: 'top left', opacity: 0.06, borderRadius: 9999, border: '1px white solid'}} />
+  <div style={{width: 137.24, height: 137.24, left: 350.44, top: 460.91, position: 'absolute', transform: 'rotate(15deg)', transformOrigin: 'top left', opacity: 0.06, borderRadius: 9999, border: '1px white solid'}} />
+  <img style={{width: 327, height: 254, left: 398, top: 591, position: 'absolute', opacity: 0.20, mixBlendMode: 'soft-light'}} src="https://placehold.co/327x254" />
+  <div style={{width: 211, left: 438, top: 631, position: 'absolute', color: '#182E45', fontSize: 24, fontFamily: 'Poppins', fontWeight: '700', lineHeight: 33.60, wordWrap: 'break-word'}}>Рентгенография<br/>ОГК и флюрография</div>
+  <div style={{width: 48, height: 48, left: 637, top: 757, position: 'absolute', opacity: 0.10, borderRadius: 100, border: '1px #17191E solid'}} />
+  <div style={{width: 24, height: 24, left: 649, top: 769, position: 'absolute', overflow: 'hidden'}}>
+    <div style={{width: 12, height: 12, left: 6, top: 6, position: 'absolute', outline: '1.50px #070A11 solid', outlineOffset: '-0.75px'}} />
+  </div>
+  <div style={{width: 297, height: 253.50, left: 773, top: 354, position: 'absolute', background: '#F0F1F3', borderRadius: 30}} />
+  <div style={{width: 211, left: 813, top: 394, position: 'absolute', color: '#182E45', fontSize: 24, fontFamily: 'Poppins', fontWeight: '700', lineHeight: 33.60, wordWrap: 'break-word'}}>КТ органов грудной клетки</div>
+  <div style={{width: 48, height: 48, left: 982, top: 520, position: 'absolute', opacity: 0.10, borderRadius: 100, border: '1px #17191E solid'}} />
+  <div style={{width: 24, height: 24, left: 994, top: 532, position: 'absolute', overflow: 'hidden'}}>
+    <div style={{width: 12, height: 12, left: 6, top: 6, position: 'absolute', outline: '1.50px #070A11 solid', outlineOffset: '-0.75px'}} />
+  </div>
+  <div style={{width: 297, height: 253.50, left: 1086, top: 354, position: 'absolute', background: '#F0F1F3', borderRadius: 30}} />
+  <div style={{width: 211, left: 1126, top: 394, position: 'absolute', color: '#182E45', fontSize: 24, fontFamily: 'Poppins', fontWeight: '700', lineHeight: 33.60, wordWrap: 'break-word'}}>Мониторинг</div>
+  <div style={{width: 48, height: 48, left: 1295, top: 520, position: 'absolute', opacity: 0.10, borderRadius: 100, border: '1px #17191E solid'}} />
+  <div style={{width: 24, height: 24, left: 1307, top: 532, position: 'absolute', overflow: 'hidden'}}>
+    <div style={{width: 12, height: 12, left: 6, top: 6, position: 'absolute', outline: '1.50px #070A11 solid', outlineOffset: '-0.75px'}} />
+  </div>
+  <div style={{width: 297, height: 253.50, left: 773, top: 623, position: 'absolute', background: '#F0F1F3', borderRadius: 30}} />
+  <div style={{width: 217, left: 813, top: 663, position: 'absolute', color: '#182E45', fontSize: 24, fontFamily: 'Poppins', fontWeight: '700', lineHeight: 33.60, wordWrap: 'break-word'}}>Врачебная<br/>платформа</div>
+  <div style={{width: 48, height: 48, left: 982, top: 789, position: 'absolute', opacity: 0.10, borderRadius: 100, border: '1px #17191E solid'}} />
+  <div style={{width: 24, height: 24, left: 994, top: 801, position: 'absolute', overflow: 'hidden'}}>
+    <div style={{width: 12, height: 12, left: 6, top: 6, position: 'absolute', outline: '1.50px #070A11 solid', outlineOffset: '-0.75px'}} />
+  </div>
+  <div style={{width: 591, left: 807, top: 112, position: 'absolute'}}><span style="color: '#070A11', fontSize: 48, fontFamily: 'Poppins', fontWeight: '700', wordWrap: 'break-word'">Инновационная медицина с </span><span style="color: '#206EF3', fontSize: 48, fontFamily: 'Poppins', fontWeight: '700', wordWrap: 'break-word'">использованием ИИ</span></div>
+</div>
